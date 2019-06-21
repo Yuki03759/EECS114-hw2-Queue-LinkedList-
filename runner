@@ -1,0 +1,8 @@
+#!/bin/bash
+
+counter=1
+while [ $counter -le 1000000 ]
+do
+    ./doubleLinkedList $counter
+    counter=$(($counter*10))
+done

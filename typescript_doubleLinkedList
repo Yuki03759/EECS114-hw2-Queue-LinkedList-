@@ -1,0 +1,41 @@
+Script started on Sat 02 Feb 2019 03:14:11 PM PST
+]0;yukih1@zuma:hw2[yukih1@zuma hw2]$ ./runner 
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+n = 1
+
+t_qs = 0.000592 seconds 
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+n = 10
+
+t_qs = 0.000889 seconds 
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+n = 100
+
+t_qs = 0.002621 seconds 
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+n = 1000
+
+t_qs = 0.020456 seconds 
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+n = 10000
+
+t_qs = 0.379683 seconds 
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+n = 100000
+
+t_qs = 2.76783 seconds 
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+n = 1000000
+
+t_qs = 25.3277 seconds 
+]0;yukih1@zuma:hw2[yukih1@zuma hw2]$ exit
+exit
+
+Script done on Sat 02 Feb 2019 03:14:58 PM PST
